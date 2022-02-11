@@ -1,0 +1,5 @@
+## Project Introduction
+
+This is the `jupyter lab` project of `Fair Logistic Regression (Fair-LR)`, a binary prediction model based on the Seldonian framework of Thomas et al., (2019). There are two notebook files: `fair_lr` and `third_party_implementation`. The `fair_lr` file is the main file of our LAK paper in 2021, where we implemented the fair logistics regression from our own understandings on Seldonian. The `third_party_implementation` includes a later implementation from a student, [Abdul Hannan](https://github.com/hannanabdul55/seldonian-fairness), from UMass, the institute where the authors of Seldonian Framework are from. 
+
+Thomas, P. S., Castro da Silva, B., Barto, A. G., Giguere, S., Brun, Y., & Brunskill, E. (2019). Preventing undesirable behavior of intelligent machines. Science, 366(6468), 999-1004.
